@@ -6,6 +6,15 @@ Currently working at **NuNet** as a **Senior Software Engineer** and **P2P/Netwo
 
 ---
 
+### Primary Stack
+
+- **Languages**: Go (+7 years), Node.js (+5 years), TypeScript/JavaScript (+5 years)
+- **Cloud & Infra**: AWS, Kubernetes (EKS), Terraform, Docker
+- **Messaging & Streaming**: AWS SQS, RabbitMQ, Kafka
+- **Datastores**: PostgreSQL, Redis, MongoDB, BadgerDB, CloverDB, LevelDB, etc.
+- **Observability**: Prometheus, Grafana
+- **Frontend**: React, MobX, Zustand, Redux, etc... (I'm not a frontend engineer (_anymore, spent 4 years doing fullstack previously_), but I can build a frontend if needed.)
+
 ### 🔗 Decentralized Systems & P2P
 
 - **NuNet** – Engineered a **libp2p/QUIC-based VPN subnet** in Go for resilient decentralized networking. (https://gitlab.com/derrandz)  
