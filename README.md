@@ -17,7 +17,8 @@ Currently working at **NuNet** as a **Senior Software Engineer** and **P2P/Netwo
 
 ### 🔗 Decentralized Systems & P2P
 
-- **NuNet** – Engineered a **libp2p/QUIC-based VPN subnet** in Go for resilient decentralized networking. (https://gitlab.com/derrandz)  
+- **NuNet** – Engineered a **libp2p/QUIC-based VPN subnet** in Go for resilient decentralized networking. (https://gitlab.com/derrandz)
+- **NuNet** - Active maintainer of our object capability model security library (A copy is available -but not ready- [UCAN](https://github.com/depinkit/ucan)) and the actor model over libp2p implementation
 - **Celestia Labs** – Contributed to **P2P layer research** and **data availability node** optimizations; Contributed to **decentralized end-to-end testing** for blockchain clients.  
 - **Pocket Network** – Developed **v1 of the node structure** in Go, including the **P2P layer** and **telemetry infrastructure** to ensure 100% data correctness.
 
